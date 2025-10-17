@@ -24,10 +24,3 @@
 
 ---
 
-# Installation
-
-## Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-RESUME-ANALYZER.git
-cd AI-RESUME-ANALYZER
-License.
