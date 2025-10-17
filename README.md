@@ -1,8 +1,8 @@
-#AI Resume Analyzer
+# AI Resume Analyzer
 
 AI Resume Analyzer is a React-based web application that uses AI to analyze resumes and provide feedback. It helps job seekers improve their resumes and allows recruiters to quickly evaluate candidate profiles.
 
-#Features
+# Features
 
 Upload resumes in PDF or DOCX format
 
@@ -16,7 +16,7 @@ Clean, reusable UI with Tailwind CSS
 
 Serverless storage and authentication
 
-#Technologies Used
+# Technologies Used
 
 Frontend: React, React Router, Tailwind CSS
 
@@ -26,16 +26,16 @@ AI Integration: AI-powered resume analysis
 
 Version Control: Git & GitHub
 
-#Run the project
+# Run the project
 
 npm run dev
 
 
-#Open in browser
+# Open in browser
 
 http://localhost:5173
 
-#Usage
+# Usage
 
 Upload your resume.
 
@@ -44,10 +44,10 @@ Let the AI analyze your resume.
 Get feedback and recommendations to improve your resume.
 
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
 
-#License
+# License
 
 This project is open-source and available under the MIT License.
